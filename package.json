@@ -32,10 +32,10 @@
     "shell"
   ],
   "devDependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "ben": "0.0.x",
     "semver": "^7.3.2",
     "tap": "^15.0.5",
-    "uglify-js": "^3.10.2"
+    "uglify-js": "^3.14.3"
   }
 }
